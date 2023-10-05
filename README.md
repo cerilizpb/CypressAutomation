@@ -12,13 +12,13 @@ Welcome to the Casino Lobby repository! This project is a web-based casino lobby
 - Nodejs
 
 ## Test Cases for Casino Lobby System
-#### 1. User Registration:
+#### 1. Casino Lobby User Registration:
 - Test Case 1.1: User Registration Page Access
 - Test Case 1.2: Empty Registration Form Submission
 - Test Case 1.3: Registration Form Validation - Invalid
-#### 2. Search 
-- Test Case 2.1: Casino Search Functionality
-- Test Case 2.2: Casino Lobby Empty Search
+#### 2. Casino Lobby Search 
+- Test Case 2.1: Search Functionality
+- Test Case 2.2: Empty Search
 - Test Case 2.3: Search Functionality - Invalid
 
 ## Author
