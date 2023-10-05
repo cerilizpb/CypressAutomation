@@ -25,12 +25,16 @@ Welcome to the Casino Lobby repository! This project is a web-based casino lobby
 
 ## Problem Statement
 - Registration Process Enhancement
-The existing registration process - The SpinBet website faces usability challenges, leading to a high bounce rate and user frustration. Users encounter difficulties during registration, causing a negative impact on user experience and conversion rates. The goal is to simplify and optimize the registration flow, making it intuitive, fast, and secure.
+
+The existing registration process on the SpinBet website faces usability challenges, leading to a high bounce rate and user frustration. Users encounter difficulties during registration, causing a negative impact on user experience and conversion rates. The goal is to simplify and optimize the registration flow, making it intuitive, fast, and secure.
+
 - Casino Lobby Validation Search
-The Casino Lobby - The SpinBet website lacks an efficient search functionality, making it hard for users to find their preferred games quickly. Users need a seamless and accurate search mechanism within the Casino Lobby to enhance their gaming experience and engagement with the platform.
+
+The Casino Lobby on the SpinBet website lacks an efficient search functionality, making it hard for users to find their preferred games quickly. Users need a seamless and accurate search mechanism within the Casino Lobby to enhance their gaming experience and engagement with the platform.
 
 ## Proposed Solution
 - Registration Process Enhancement
+
 To address the issues in the registration process, we propose the following solutions:
 
 1. Intuitive User Interface: Redesign the registration interface with a clean, intuitive layout. Clearly label input fields and provide helpful hints to guide users through the process.
@@ -42,6 +46,7 @@ To address the issues in the registration process, we propose the following solu
 4. Secure Authentication: Integrate multi-factor authentication (MFA) options, such as email verification or SMS confirmation, to enhance security and user confidence.
 
 - Casino Lobby Validation Search
+
 For optimizing the search functionality in the Casino Lobby, we recommend the following enhancements:
 
 1. Instant Search: Implement an instant search feature that displays results dynamically as users type their queries, providing instant feedback and saving time.
@@ -54,6 +59,7 @@ For optimizing the search functionality in the Casino Lobby, we recommend the fo
 
 ## Technical Choices
 - Registration Process
+
 The registration process is a critical component of our platform, ensuring user data security and regulatory compliance. We have employed the following technical choices to enhance user experience and data protection:
 
 1. Secure API Endpoints: We utilize HTTPS and enforce secure API endpoints to encrypt data transmission, preventing man-in-the-middle attacks.
@@ -67,6 +73,7 @@ The registration process is a critical component of our platform, ensuring user 
 5. Compliance with Regulatory Standards: We comply with GDPR and other relevant data protection regulations, ensuring that user data is handled with care and in compliance with legal requirements.
 
 - Casino Lobby Validation Search
+
 Our Casino Lobby validation search feature allows users to find games efficiently. We have implemented the following strategies for optimal user experience:
 
 1. Real-time Search: The validation search feature provides real-time results as users type, enhancing user interaction and ensuring they quickly find the desired games.
