@@ -25,9 +25,9 @@ Welcome to the Casino Lobby repository! This project is a web-based casino lobby
 
 ## Problem Statement
 - Registration Process Enhancement
-The existing registration process on the SpinBet website faces usability challenges, leading to a high bounce rate and user frustration. Users encounter difficulties during registration, causing a negative impact on user experience and conversion rates. The goal is to simplify and optimize the registration flow, making it intuitive, fast, and secure.
+The existing registration process - The SpinBet website faces usability challenges, leading to a high bounce rate and user frustration. Users encounter difficulties during registration, causing a negative impact on user experience and conversion rates. The goal is to simplify and optimize the registration flow, making it intuitive, fast, and secure.
 - Casino Lobby Validation Search
-The Casino Lobby on the SpinBet website lacks an efficient search functionality, making it hard for users to find their preferred games quickly. Users need a seamless and accurate search mechanism within the Casino Lobby to enhance their gaming experience and engagement with the platform.
+The Casino Lobby - The SpinBet website lacks an efficient search functionality, making it hard for users to find their preferred games quickly. Users need a seamless and accurate search mechanism within the Casino Lobby to enhance their gaming experience and engagement with the platform.
 
 ## Proposed Solution
 - Registration Process Enhancement
