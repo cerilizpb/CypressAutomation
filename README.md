@@ -10,6 +10,8 @@ Welcome to the Casino Lobby repository! This project is a web-based casino lobby
 - Java Script
 - VS Code
 - Nodejs
+- Github
+- GitBash
 
 ## Test Cases for Casino Lobby System
 #### 1. Casino Lobby User Registration:
